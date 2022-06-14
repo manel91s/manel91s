@@ -1,30 +1,17 @@
-# Gaurav Chouhan 😃
-Independent Sr. Software Consultant | Community Speaker | Co-Founder @ [TheYouthProject](https://github.com/TheYouthProject) | Embracing Technology | Creating Experiences
+# Manel Aguilera😃
+Programador Web Full Stack
 
-## 🧐 About
-Apart from having the super-power of sitting on a desk and code for more than 24 hours just to deliver something that will make world a better place, I am working on democratizing technical education and shape the next generation of engineers and developers.
+## 🧐 Sobre mi
+Soy una persona que busca la mejora continua de si misma, y no os voy a engañar, desde que empezé en este mundo de la programación mi vida cambió, busco nuevos desafios en los que pueda aportar valor y me haga crecer como profesional.
 
-## 👯 Communities
-- Empowering students with both small and long term initiatives under @ [TheYouthProject](https://theyouthproject.in)
-- Co-organizer at [AllAboutWeb](https://twitter.com/allaboutweb) (A web technology centric meetup group)
-- Co-organizer at [Indore Technical Community](https://twitter.com/indoretechcom) (A local meetup group talking coding and technologies in trend)
-- Co-organizer of Hour of Code, Indore - One of the largest Hour of Code execution in India
+La palabra constancia me representa, pues desde pequeño he sido una persona que nunca ha dejado las cosas a medias, siempre llego hasta el final en todo lo que me he proponga, actualmente trabajo como programador de backend en PHP pero estoy en constante formación en otro tipo de tecnologias y buenas practicas relacionadas al desarrollo de software como principios SOLID, patrones de diseño, etc...
 
 ## ⚡ Technologies
-Talk to me about
-- Front-end development using **Angular, React, VanillaJS**
-- Backend development using **ASP.NET Core, Node, Express**
-- Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **Cassandra / DataStax**
-- Robust full-stack system design implementation
-- Desktop application development using **UWP, WPF or WinForms**
-- Mobile application development using **Android (Java or Kotlin), Xamarin Android / Xamarin iOS, Ionic**
-- Creating scalable cloud architecture using **Microsoft Azure**
-- Project Management and CD/CI using **Azure DevOps**
 
-## 📫 Contact Me
-- Twitter - [@gauravc12](https://twitter.com/gauravc12)
-- LinkedIn - [Gaurav Chouhan](https://in.linkedin.com/in/gauravc12)
-- Blog - [GC Codes](https://gc-codes.com)
+- Front-end development using **HTML5, CSS3, BOOSTRAP4, React, VanillaJS**
+- Backend development using **Php, Node, Express**
+- Diseño de bases de datos relacionales y gestión de bases de datos con **Mysql, MariaDB** así como no relacionales con **MongoDB
 
----
-⭐️ From [gc-codes](https://github.com/gc-codes)
+## 📫 Contactame
+- CV - http://manelproyectweb.es/cv
+- LinkedIn - https://www.linkedin.com/in/manel-aguilera-martinez-5a9978196
