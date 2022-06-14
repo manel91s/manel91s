@@ -4,7 +4,7 @@ Programador Web Full Stack
 ## 🧐 Sobre mi
 Soy una persona que busca la mejora continua de si misma y no os voy a engañar, la programación cambió mi vida y mi forma de pensar, busco nuevos desafios en los que pueda aportar valor y me haga crecer como profesional.
 
-La palabra constancia me representa, pues desde pequeño he sido una persona que nunca ha dejado las cosas a medias, siempre llego hasta el final en todo lo que me he proponga, actualmente trabajo como programador de backend en PHP pero estoy en constante formación en otro tipo de tecnologias y buenas practicas relacionadas al desarrollo de software como principios SOLID, patrones de diseño, etc...
+La palabra constancia me representa, pues desde pequeño he sido una persona que nunca ha dejado las cosas a medias, siempre llego hasta el final en todo lo que me propongo, actualmente trabajo como programador de backend en PHP pero estoy en constante formación en otro tipo de tecnologias y buenas practicas relacionadas al desarrollo de software como principios SOLID, patrones de diseño, etc...
 
 ## ⚡ Tecnologias
 
