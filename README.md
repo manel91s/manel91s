@@ -1,5 +1,5 @@
 # Manel Aguilera😃
-Programador Web Junior Full Stack
+Programador Web Full Stack
 
 ## 🧐 Sobre mi
 Soy una persona que busca la mejora continua de si misma y no os voy a engañar, la programación cambió mi vida y mi forma de pensar, busco nuevos desafios en los que pueda aportar valor y me haga crecer como profesional.
