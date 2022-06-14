@@ -8,8 +8,8 @@ La palabra constancia me representa, pues desde pequeño he sido una persona que
 
 ## ⚡ Technologies
 
-- Front-end development using **HTML5, CSS3, BOOSTRAP4, React, VanillaJS**
-- Backend development using **Php, Node, Express**
+- Front-end development usando **HTML5, CSS3, BOOSTRAP4, React, VanillaJS**
+- Backend development usando **Php, Node, Express**
 - Diseño de bases de datos relacionales y gestión de bases de datos con **Mysql, MariaDB** así como no relacionales con **MongoDB
 
 ## 📫 Contactame
