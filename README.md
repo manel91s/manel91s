@@ -6,9 +6,9 @@ Soy una persona que busca la mejora continua de si misma y no os voy a engañar,
 
 La palabra constancia me representa, pues desde pequeño he sido una persona que nunca ha dejado las cosas a medias, siempre llego hasta el final en todo lo que me he proponga, actualmente trabajo como programador de backend en PHP pero estoy en constante formación en otro tipo de tecnologias y buenas practicas relacionadas al desarrollo de software como principios SOLID, patrones de diseño, etc...
 
-## ⚡ Technologies
+## ⚡ Tecnologias
 
-- Front-end development usando **HTML5, CSS3, BOOSTRAP4, React, VanillaJS**
+- Front-end development usando **HTML5, Css3, Boostrap4, React, VanillaJS**
 - Backend development usando **Php, Node, Express**
 - Diseño de bases de datos relacionales y gestión de bases de datos con **Mysql, MariaDB** así como no relacionales con **MongoDB
 
