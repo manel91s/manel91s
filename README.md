@@ -11,6 +11,7 @@ La palabra constancia me representa, pues desde pequeño he sido una persona que
 - Front-end development usando **HTML5, Css3, Boostrap4, React, VanillaJS**
 - Backend development usando **Php, Node, Express**
 - Diseño de bases de datos relacionales y gestión de bases de datos con **Mysql, MariaDB** así como no relacionales con **MongoDB
+- Microservicios usando Docker y Docker Swarm
 
 ## 📫 Contactame
 - CV - http://manelproyectweb.es/cv
