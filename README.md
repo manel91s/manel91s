@@ -2,7 +2,9 @@
 Programador Web Full Stack
 
 ## 🧐 Sobre mi
-El término "constancia" es representativo de mi personalidad, ya que desde temprana edad he sido alguien que nunca abandona una tarea a medias; siempre me esfuerzo por llegar hasta el final en todo lo que emprendo. Actualmente, ejerzo como programador de backend con PHP, pero no me limito a eso. Continuamente, me encuentro en proceso de formación, explorando diversas tecnologías y adoptando buenas prácticas relacionadas con el desarrollo de software.
+
+Programador web con más de 4 años de experiencia, en busca de nuevos retos que me brinden la posibilidad de crecer profesionalmente. Me considero una persona con habilidades
+notables en resolución de problemas, análisis de requerimientos, comunicación y trabajo en equipo. Estoy comprometido con el aprendizaje continuo y la mejora constante para poder aportar mis habilidades y experiencia a un equipo dinámico y en crecimiento.
 
 ## ⚡ Tecnologias
 
